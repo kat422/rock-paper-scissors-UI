@@ -1,1 +1,3 @@
-# rock-paper-scissors-UI
+# Rock-paper-scissors-UI
+
+Exercise in JavaScript
